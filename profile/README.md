@@ -5,8 +5,9 @@
 | Samet Alan |
 | Yekta Ercul |
 | Bahadır Gezer |
-| Atakan Yaşar |
 | Görkem Yiğit |
+| Furkan Morkoç |
+| Atakan Yaşar |
 
 
 ## What is Leext?
