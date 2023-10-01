@@ -6,8 +6,6 @@
 | Yekta Ercul |
 | Bahadır Gezer |
 | Görkem Yiğit |
-| Furkan Morkoç |
-| Atakan Yaşar |
 | Emircan Yılmaz |
 
 ## What is Leext?
